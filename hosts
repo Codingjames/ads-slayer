@@ -2,19 +2,19 @@
 0.0.0.0 btloader.com
 0.0.0.0 c.bing.com
 0.0.0.0 cdn.taboola.com/scripts/msn-sync.es5.js
-0.0.0.0 cm.mgid.com/m?cdsp=516415&c=133F3DD70B99687218662E680A3269B5&mode=inverse&msn_src=ntp&gdpr=0&gdpr_consent=
-0.0.0.0 code.yengo.com/sync?ssp=msn&id=133F3DD70B99687218662E680A3269B5&gdpr=0&gdpr_consent=
-0.0.0.0 eb2.3lift.com/mapuid?suid=133F3DD70B99687218662E680A3269B5&sid=16&gdpr=0&gdpr_consent=
-0.0.0.0 hbx.media.net/cksync.php?type=nms&cs=3&ovsid=133F3DD70B99687218662E680A3269B5&gdpr=0&gdpr_consent=
-0.0.0.0 ib.adnxs.com/getuid?0.0.0.0 c.bing.com/c.gif?anx_uid=$UID&Red3=MSAN_pd&gdpr=0&gdpr_consent=
-0.0.0.0 js.monitor.azure.com/scripts/c/ms.shared.analytics.mectrl-3.gbl.min.js
-0.0.0.0 pr-bh.ybp.yahoo.com/sync/msn?gdpr=0&gdpr_consent=
-0.0.0.0 px.ads.linkedin.com/setuid?partner=microsoftSsp&dbredirect=true&dnt=0&gdpr=0&gdpr_consent=
-0.0.0.0 sb.scorecardresearch.com/b?rn=1738047456633&c1=2&c2=3000001&cs_ucfr=1&c7=https%3A%2F%2Fwww.msn.com%2Fth-th%3Focid%3Dwispr%26pc%3Du477%26content%3D1%26mkt%3Dth-th&c8=MSN&c9=&cs_fpid=133F3DD70B99687218662E680A3269B5&cs_fpit=o&cs_fpdm=*null&cs_fpdt=*null
-0.0.0.0 sync.inmobi.com/oRTB?redirect={PubRedirectUrl}&gdpr=0&gdpr_consent=
-0.0.0.0 sync.outbrain.com/uidmappixel?ext_uid=133F3DD70B99687218662E680A3269B5&pname=MSN&gdpr=0&gdpr_consent=
-0.0.0.0 trace.mediago.io/cs/msn?id=133F3DD70B99687218662E680A3269B5&gdpr=0&gdpr_consent=
-0.0.0.0 visitor.omnitagjs.com/visitor/sync?uid=9871605be8d4b2a982914bf5c9348e7b&name=MSN&visitor=133F3DD70B99687218662E680A3269B5&external=true&gdpr=0&gdpr_consent=
+0.0.0.0 cm.mgid.com
+0.0.0.0 code.yengo.com
+0.0.0.0 eb2.3lift.com
+0.0.0.0 hbx.media.net
+0.0.0.0 ib.adnxs.com
+0.0.0.0 js.monitor.azure.com
+0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 px.ads.linkedin.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 sync.inmobi.com
+0.0.0.0 sync.outbrain.com
+0.0.0.0 trace.mediago.io
+0.0.0.0 visitor.omnitagjs.com
 0.0.0.0 djpcraze.com
 
 
