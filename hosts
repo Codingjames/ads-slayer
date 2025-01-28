@@ -1,6 +1,5 @@
 0.0.0.0 adsdk.microsoft.com/ast/ast.js
-0.0.0.0 btloader.com/tag?o=6208086025961472&upapi=true
-
+0.0.0.0 btloader.com
 0.0.0.0 c.bing.com
 0.0.0.0 cdn.taboola.com/scripts/msn-sync.es5.js
 0.0.0.0 cm.mgid.com/m?cdsp=516415&c=133F3DD70B99687218662E680A3269B5&mode=inverse&msn_src=ntp&gdpr=0&gdpr_consent=
@@ -16,4 +15,7 @@
 0.0.0.0 sync.outbrain.com/uidmappixel?ext_uid=133F3DD70B99687218662E680A3269B5&pname=MSN&gdpr=0&gdpr_consent=
 0.0.0.0 trace.mediago.io/cs/msn?id=133F3DD70B99687218662E680A3269B5&gdpr=0&gdpr_consent=
 0.0.0.0 visitor.omnitagjs.com/visitor/sync?uid=9871605be8d4b2a982914bf5c9348e7b&name=MSN&visitor=133F3DD70B99687218662E680A3269B5&external=true&gdpr=0&gdpr_consent=
+0.0.0.0 djpcraze.com
+
+
 
